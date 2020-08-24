@@ -1,2 +1,2 @@
 # ExploratoryDataAnalysis
-Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA) Techniques and Projects using Python
